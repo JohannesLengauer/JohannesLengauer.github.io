@@ -5,17 +5,14 @@ font-weight: bold;
 
 p {
 font-family: Georgia, Sans-serif;
-color: green; 
-background-color: white;
 } 
 
-.largefont {
+.red {
   color: red;
-  font-family:Georgia;
-  font-size: 20px;
+  background-color: white;
 }
 
-#h2Header {
+#header {
   background-color: lightgreen;
   color: black;
 }
