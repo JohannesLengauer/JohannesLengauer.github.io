@@ -12,6 +12,7 @@ font-family: Georgia, Sans-serif;
   background-color: white;
 }
 
-#largeFont {
-  font-size: 30px;
+#blueBackground {
+  color: black;
+  background-color: lightblue;
 }
