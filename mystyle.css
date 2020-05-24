@@ -8,3 +8,9 @@ font-family: Georgia, Sans-serif;
 color: green; 
 background-color: white;
 } 
+
+.myDiv {
+  border: 5px outset green;
+  background-color: lightblue;
+  text-align: center;
+}
