@@ -2,8 +2,9 @@ h1, h2, h3, h4, h5, h6 {
 font-family: Verdana, Sans-serif;
 font-weight: bold;
 }
+
 p {
 font-family: Georgia, Sans-serif;
 color: green; 
-background-color: red;
+background-color: grey;
 } 
