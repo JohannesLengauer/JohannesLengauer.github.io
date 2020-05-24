@@ -16,3 +16,7 @@ font-family: Georgia, Sans-serif;
   color: black;
   background-color: blue;
 }
+
+.scaleWidth {
+width: 100%;
+}
