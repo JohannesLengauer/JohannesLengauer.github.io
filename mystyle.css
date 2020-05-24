@@ -9,8 +9,8 @@ color: green;
 background-color: white;
 } 
 
-.div {
-  border: 5px outset green;
-  background-color: lightblue;
-  text-align: center;
+.largefont {
+  color: black;
+  font-family:Georgia;
+  font-size: 10px;
 }
