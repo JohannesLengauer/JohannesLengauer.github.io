@@ -1,3 +1,1 @@
-layout: page
-title: "Bilder"
-permalink: /Bilder/
+<img src="Landschaft.jpeg" alt="Kitty Cat" width="100px" height=“82px”> 
